@@ -50,3 +50,4 @@ Future: Decentralized keepers with $QTNM incentives.
 Implement smart contract in Rust/Anchor.
 Develop React frontend for ticket purchases and Q-Score display.
 Test on Solana Devnet with simulated players.
+
